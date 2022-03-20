@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\adamt\source\repos\ChessGraphics\ChessGraphics\Main.cpp(163,14): warning C4930: 'std::thread worker(void)': prototyped function not called (was a variable definition intended?)
+  shaderClass.cpp
+  Generating Code...
+  ChessGraphics.vcxproj -> C:\Users\adamt\source\repos\ChessGraphics\x64\Debug\ChessGraphics.exe
